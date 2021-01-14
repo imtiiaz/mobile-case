@@ -505,8 +505,6 @@ button.owl-next span {
 }
 
 
-
-
 /* 5.-------------------------------------------
                     Featured Section
 -----------------------------------------------*/
@@ -553,7 +551,7 @@ button.owl-next span {
     font-size: 14px;
     color: #333;
     border-radius: 5px;
-    margin: 0 5px;
+    margin: 5px;
     padding: 10px;
     background: rgba(252, 183, 0, 0.8);
     transition: all linear .2s;
@@ -2753,31 +2751,6 @@ table tr:hover {
     color: #fff;
     border: 1px solid #14213d;
 }
-
-.artist_info ul {}
-
-.artist_info ul li {
-    display: inline-block;
-    padding-left: 25px;
-    margin-bottom: 5px;
-    width: 49%;
-    position: relative;
-    cursor: pointer;
-}
-
-/*
-.artist_info ul li:hover {
-    color: #fca311;
-}
-*/
-
-.artist_info ul li i {
-    position: absolute;
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
-}
-
 .artist_info .social a i {
     font-size: 12px;
     color: #fff;
