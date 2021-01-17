@@ -2286,7 +2286,8 @@ table tr:hover {
 
 #product_page .custom input {
     text-align: center;
-    width: 60px;
+    text-transform: capitalize;
+    width: 170px;
     padding: 2px 5px;
     margin-top: 10px;
     font-size: 14px;
